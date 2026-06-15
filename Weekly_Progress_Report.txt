@@ -1,0 +1,60 @@
+upskills Weekly Progress Report
+
+Name: Kannan M
+Domain: Core Java / Java Full Stack
+Date of submission: 15-06-2026
+
+Week Ending: 01
+
+I. Overview:
+
+This week, the primary focus was on developing the Banking Information System (BMS) as a full-stack Java application and contributing to both backend and frontend development. Additionally, efforts were made to leverage modern learning resources for skill enhancement in Spring Boot and React.
+
+II. Achievements:
+
+1. Banking Information System Familiarization:
+   - Explored Spring Boot, React (Vite), and Tailwind CSS documentation to grasp core full-stack functionalities.
+   - Successfully executed the complete application setup, showcasing initial proficiency in building monolithic API architectures.
+
+2. Java Full Stack Contributions:
+   Name of the project: Banking Information System (BMS)
+   - Contributed code to the BMS project with a focus on resolving JWT Authentication interceptors, Database integration, and frontend CSS compilation.
+   - Engaged in effective debugging to successfully bind the backend API with the React frontend.
+
+3. Learning Java & Web Technologies:
+   - Acquired proficiency in essential libraries and tools, such as Spring Security, Spring Data JPA (Hibernate), Axios, and React Router.
+   - Applied Java and React skills to real-world problems within the Banking Information System context.
+
+III. Challenges:
+
+1. Database Integration:
+   - Encountered challenges during MySQL integration with the Spring Boot backend due to local database access constraints.
+   - Successfully solved by implementing an H2 in-memory database configuration to ensure uninterrupted local development and testing.
+
+2. Frontend Configuration Complexity:
+   - Faced complexity in understanding Axios interceptor states and Tailwind CSS PostCSS plugin errors.
+   - Overcame challenges by writing a custom request interceptor to properly handle JWT headers and updating the project's CSS build pipeline for Tailwind v4.
+
+IV. Learning Resources:
+
+1. Framework Documentation:
+   - Utilized official Spring Boot and Vite/Tailwind official documentation for reference and troubleshooting.
+   - Explored automated UI testing using Playwright to deepen understanding of end-to-end user workflows.
+
+2. Full Stack Learning Resources:
+   - Engaged with practical debugging techniques to strengthen both Core Java and modern JavaScript skills.
+   - Participated in troubleshooting authentication flows for practical application.
+
+V. Next Week's Goals:
+
+1. System Enhancement:
+   - Address any minor UI refinements and explore advanced Spring Boot caching/security features.
+   - Collaborate with peers to contribute to BMS improvement discussions.
+
+2. Project Development:
+   - Tackle more complex tasks within the Banking Information System to increase feature contributions.
+   - Seek feedback from mentors and peers for continuous improvement.
+
+VI. Additional Comments:
+
+This week was highly productive, marked by resolving critical full-stack integration issues. Transitioning between backend API security and frontend state management provided a comprehensive understanding of modern web application architecture and debugging workflows.
